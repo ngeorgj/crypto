@@ -1,0 +1,43 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E221" />
+          <option value="E203" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="list.activate" />
+          <option value="list.activate_on_cast" />
+          <option value="engine.cards.abstract.effect.abstract_effect.AbstractEffect.activate" />
+          <option value="list.activate_on_battlefield" />
+          <option value="list.cards" />
+          <option value="str.executemany" />
+          <option value="engine.cards.abstract.effect.EffectActivationHandler.effects" />
+          <option value="engine.cards.collection.black.creature.black_archangel.BlackArchangel.Effect.thoughness" />
+          <option value="engine.cards.abstract.card.abstract_mana.AbstractManaCard.color" />
+          <option value="list.effect" />
+          <option value="engine.cards.abstract.card.abstract_card.AbstractCard.color" />
+          <option value="engine.cards.abstract.card.abstract_creature.AbstractCreature.year" />
+          <option value="tuple.__setitem__" />
+          <option value="engine.game.abstract.abstract_card_functions.AbstractCardFunctions.graveyard" />
+          <option value="engine.game.abstract.abstract_card_functions.AbstractCardFunctions.battlefield" />
+          <option value="dict.__add__" />
+          <option value="dict.append" />
+          <option value="set.append" />
+          <option value="georg_mgmt.operations.Operations.interest_rate" />
+          <option value="georg_mgmt.operations.Operations.money" />
+          <option value="georg_mgmt.investment.calculations.stock_analysis.StockAnalysis.symbol" />
+          <option value="georg_mgmt.investment.calculations.stock_analysis.StockAnalysis.finance_symbol" />
+          <option value="georg_mgmt.investment.calculations.indicators.Indicators.symbol" />
+          <option value="georg_mgmt.investment.calculations.indicators.Indicators.finance_symbol" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
